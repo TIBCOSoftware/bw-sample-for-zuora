@@ -1,0 +1,1 @@
+Note: Authentication values such as tokens and usernames/passwords are dummy values and will need to be updated for the sample to deploy properly
